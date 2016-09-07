@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <com.example.santa.lookupapp.tableactivity.SlidingTagView
+        android:id="@+id/slidingview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:stvCurTextColor="@color/colorPrimaryDark"
+        app:stvTextColor="@color/lightGray"
+        app:stvTextSize="16px"
+        app:stvDividerPadding="20dp"/>
+    <com.example.santa.lookupapp.tableactivity.TableView
+        android:id="@+id/tableview"
+        android:layout_width="match_parent"
+        android:layout_height="250dp"/>
+
+    <android.support.v7.widget.RecyclerView
+        android:layout_marginTop="10dp"
+        android:id="@+id/listview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/lightGray"/>
+</LinearLayout>

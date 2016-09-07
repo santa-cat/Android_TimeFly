@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SlidingTagView">
+        <attr name="stvTextSize" format="dimension" />
+        <attr name="stvTextColor" format="color" />
+        <attr name="stvCurTextColor" format="color" />
+        <!--<attr name="stvIndicatorColor" format="color" />-->
+        <!--<attr name="stvUnderlineColor" format="color" />-->
+        <!--<attr name="stvDividerColor" format="color" />-->
+        <!--<attr name="stvIndicatorHeight" format="dimension" />-->
+        <!--<attr name="stvUnderlineHeight" format="dimension" />-->
+        <attr name="stvDividerPadding" format="dimension" />
+        <!--<attr name="pstsTabPaddingLeftRight" format="dimension" />-->
+        <!--<attr name="pstsScrollOffset" format="dimension" />-->
+        <!--<attr name="pstsTabBackground" format="reference" />-->
+        <!--<attr name="pstsShouldExpand" format="boolean" />-->
+        <!--<attr name="pstsTextAllCaps" format="boolean" />-->
+    </declare-styleable>
+</resources>

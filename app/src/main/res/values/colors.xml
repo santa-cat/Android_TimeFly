@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2196F3</color>
+    <color name="colorPrimaryDark">#2196F3</color>
+    <color name="colorAccent">#2196F3</color>
+    <color name="colorCircleText">#FDC738</color>
+    <color name="transparent">#ee222222</color>
+    <color name="lightGray">#929292</color>
+    <color name="lightMoreGray">#acacac</color>
+    <!--以下为新的-->backGround
+    <color name="backGround">#E4E5E0</color>
+    <color name="lightBackGround">#c9c9c9</color>
+    <color name="yellow">#F8DB01</color>
+    <!--<color name="yellowDark">#</color>-->
+    <color name="darkGray">#666666</color>
+    <color name="lightBlack">#1c1c1c</color>
+    <color name="lightWhite">#77ffffff</color>
+    <color name="green">#009688</color>
+</resources>

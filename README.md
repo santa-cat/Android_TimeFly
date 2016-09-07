@@ -3,8 +3,6 @@
 
 ###主界面1
 构成：一个启动开关、当前日期、当天手机总共使用时间、当天所用APP使用记录<br/>
-####头部信息
-![](https://github.com/xuzhitaosanta/Android_TimeFly/blob/master/pic/header.png)<br/><br/>
 
 ####app使用记录listview
 以时光轴到方式显示当天内APP使用记录：<br/>
